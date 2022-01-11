@@ -6,6 +6,10 @@
 x^2+5x=23\\
 2x+48=55
 ```
+\begin{equation}
+x^2+5x=23\\
+2x+48=55
+\end{equation}
 
 python code
 
